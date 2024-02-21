@@ -14,7 +14,7 @@ export default function Home() {
   <p>WWW is a: <q>World Wide Web.</q></p>
   <p>What is Biology?</p>
   <blockquote >"Biology" is the scientific study of living organisms and their interactions with each other and their environments. It is a broad field that encompasses various levels of biological organization, from molecules and cells to organisms, populations, and ecosystems.</blockquote>
-  <p><cite>The Scream</cite> by Edvard Munch. found in 1999.</p>
+  <p><cite>The Scream</cite> by Adegoke Ayomiposi found in year 1999.</p>
 
   </>
 
