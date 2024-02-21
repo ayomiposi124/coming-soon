@@ -10,7 +10,7 @@ export default function Home() {
   <p>Hello my name is <b>Ayomiposi</b> </p>
   <p>The <abbr title="World Health Organization">WHO</abbr> The World Health Organization is a specialized agency of the United Nations responsible for international public health. </p>
   <p>NO,9 <pre><address>Bayo Akinjobi str, <br />olosun ota, <br />ogun state</address></pre></p>
-  <p><bdo dir="rtl">This text will be written from right to left</bdo>  using bdo tag</p>
+  <p><bdo dir="rtl">This text will be written from right to left</bdo>  using the bdo tag</p>
   <p>WWW is a: <q>World Wide Web.</q></p>
   <p>What is Biology?</p>
   <blockquote >Biology is the scientific study of living organisms and their interactions with each other and their environments. It is a broad field that encompasses various levels of biological organization, from molecules and cells to organisms, populations, and ecosystems.</blockquote>
